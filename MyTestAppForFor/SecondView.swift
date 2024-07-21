@@ -15,6 +15,7 @@ struct SecondView: View {
         
         Text("New element")
         
+        Text("New Element")
     }
 }
 
