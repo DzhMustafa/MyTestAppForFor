@@ -19,6 +19,8 @@ struct ContentView: View {
                 Text("Show")
                 Text("Getinger")
                 Text("Print")
+                
+                Text("1")
             }
             
         }
