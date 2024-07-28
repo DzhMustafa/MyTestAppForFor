@@ -21,6 +21,7 @@ struct ContentView: View {
                 Text("Print")
                 
                 Text("1")
+                Text("2")
             }
             
         }
