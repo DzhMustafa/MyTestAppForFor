@@ -17,6 +17,8 @@ struct ContentView: View {
                 SecondView()
             } label: {
                 Text("Show")
+                Text("Getinger")
+                Text("Print")
             }
             
         }
