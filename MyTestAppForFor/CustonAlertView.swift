@@ -11,10 +11,7 @@ struct CustonAlertView: View {
     
     var body: some View {
         ScrollView() {
-            ForEach(0..<20) { _ in
-                Rectangle()
-                    .frame(width: 150, height: 150)
-            }
+            
         }
         .scrollIndicators(.never)
     }
